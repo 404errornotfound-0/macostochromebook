@@ -1,0 +1,19 @@
+Back up all data on your Chromebook, as this process will wipe the storage.
+
+Create a recovery USB drive for ChromeOS, just in case you need to restore it later.
+
+DEVOLPER MODE
+
+Enable Developer Mode on your Chromebook:
+
+Turn off the device.
+
+Press Esc + Refresh + Power to enter recovery mode.
+
+Choose "Turn OS Verification Off" and proceed.
+
+Replace the Chromebook's firmware with Coreboot or a custom firmware like MrChromebox firmware:
+
+Follow detailed instructions from MrChromebox's website.
+
+Install the firmware update via USB.
