@@ -11,3 +11,24 @@ A USB drive
 32 gigabytes or more for offline installer.
 The ability to use a command line
 We will not help you if you do not know how to cd to a directory.
+
+
+
+ChromebookOSX:
+
+Asus C425 (LEONA)
+Asus C434 (SHYVANA)
+Asus C433 (SHYVANA)
+
+PixelbookOSX:
+
+Google Pixelbook (2017) (EVE)
+Google Pixel Slate (NOCTURNE)
+Google Pixelbook Go (2019) (ATLAS)
+macOS-Dragonair:
+
+HP Chromebook x360 14c (DRAGONAIR)
+LuluMacOS
+
+Dell Chromebook 13 7310 (LULU)
+Custom Firmware
