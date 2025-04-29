@@ -11,4 +11,3 @@ A USB drive
 32 gigabytes or more for offline installer.
 The ability to use a command line
 We will not help you if you do not know how to cd to a directory.
-Tested Devices
