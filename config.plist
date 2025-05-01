@@ -1,0 +1,1 @@
+Disable Booter->Quirks->DevirtualiseMmio: Fixes NVRAM and other runtime EFI services
